@@ -37,7 +37,7 @@
  *
  *******************************************************************************/
 
-#include <lmic.h>			//  MCCI.   TODO  latest library verions update
+#include <lmic.h>			//  MCCI.  
 #include <hal/hal.h>
 #include <SPI.h>
 #include <cactus_io_BME280_I2C.h>
