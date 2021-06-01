@@ -1,6 +1,7 @@
 #include <Arduino.h>
 
 /*******************************************************************************
+ *   CURRENT STATE - REPLICATING Weather1.0 functionality with later MCCI library
  * Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
  * Copyright (c) 2018 Terry Moore, MCCI
  * Copyright (c) 2018 Thomas Laurenson
