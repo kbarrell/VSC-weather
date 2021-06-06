@@ -1,5 +1,10 @@
 # VSC-weather
-Migration of Arduino weather station to OTAA &amp; Feather M0 support
+Migration of Arduino weather station to OTAA &amp; Feather M0 support.   This repo scope paused at the point of 
+<ul>
+<li> Link to MCCI LMIC library v3.3.0</li>
+<li> Convert WS1.0 arduino code to VSC with unchanged functionality</li>
+<li> Retain ABP activation and TTN v2</li>
+</ul>
 
 Separate repository to explore use of VSC+PlatformIO for the evolution of my original Arduino weather station code https://github.com/kbarrell/Arduino-WeatherStation. The change is prompted by failure of the humidity sensor used in the original implementation, BME280. The upgrade is intended to introduce a separate humidity sensor Sensiron SHT31-D which offers improved condensation protection plus a heater circuit that can be used to keep the sensor free of condensation.
 
